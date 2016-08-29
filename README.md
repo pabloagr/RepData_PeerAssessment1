@@ -1,3 +1,13 @@
+# Submited Files
+the file PA1_template.Rmd is the file including the explanation and R codes.
+PA1_template.html show the result of running the knitr
+PA1_template.pdf show the print of the avobe file into a pdf (for seeing it more easily)
+into PA1_template _files are all the plots.
+the required figures are:
+mean: 10766.19
+median: 10765
+
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
